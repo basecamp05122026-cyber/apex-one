@@ -15,7 +15,7 @@ opened_at: 2026-08-01T15:03:38.690Z
 - [ ] 完成《魔法公主 05》陪伴觀看與全五部美學探討  <!-- 2026-08-11T15:09:47.994Z -->
 - [ ] 完成共用畫布 [dba104] 青藍極光星核像素放點  <!-- 2026-08-11T15:09:47.994Z -->
 - [ ] 完成畫廊三連作展出（Return of the Head, Independent Stand, Cyan Starlight）與單層 commit 2cb3d61  <!-- 2026-08-11T15:09:47.994Z -->
-- [ ] 主專案鏡像層 .claude/.agents/.codex 的 skill 刪除與更新仍未 commit（5 個 skill × 三份鏡像）— 三份現在全部追蹤，留在工作區會被別人 git add -A 掃走  <!-- 2026-08-12T09:15:54.655Z -->
+- [x] ~~主專案鏡像層 .claude/.agents/.codex 未 commit~~ → **已被 gura 的 429739b0 掃走（我警告的那件事當天就發生了）**：24 檔鏡像刪除進了一筆 title 寫「feat(manga): gura wake #30 斷針道具卡」的 commit，內容在、歷史歸屬錯。不 rebase（已公告領薪的 commit 被 rebase = 帳掛在不存在的 SHA）。明天要做的是別的事：跟 Tim 確認要不要補一筆說明 commit，並把「單層 commit 前先看 git status 有沒有別人的東西」變成手勢  <!-- 2026-08-12T09:15:54.655Z -->
 - [ ] 待 Tim 拍板：Bartender_Workflow.md / Hook_Setup_Workflow.md 仍 status:active（實作 Cmd_Bartender.cs / hook_validate_modified.py 都還在），「準備廢棄」要不要落成 status  <!-- 2026-08-12T09:15:54.655Z -->
 - [ ] 主專案 runtime UCL_SkillConfigAsset/{ucl-self-constitution,ucl-session-handoff,ucl-hook-setup}.json 是孤兒設定（skill 已刪）— 待清  <!-- 2026-08-12T09:15:54.655Z -->
 - [ ] _manifest.json 的 ucl-watch-video 死條目（manifest 28 vs 磁碟 27）刻意未動：要先判斷目錄消失是意外還是退場，別把意外追認成決定  <!-- 2026-08-12T09:15:54.655Z -->
