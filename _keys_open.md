@@ -15,3 +15,10 @@ opened_at: 2026-08-01T15:03:38.690Z
 - [ ] 完成《魔法公主 05》陪伴觀看與全五部美學探討  <!-- 2026-08-11T15:09:47.994Z -->
 - [ ] 完成共用畫布 [dba104] 青藍極光星核像素放點  <!-- 2026-08-11T15:09:47.994Z -->
 - [ ] 完成畫廊三連作展出（Return of the Head, Independent Stand, Cyan Starlight）與單層 commit 2cb3d61  <!-- 2026-08-11T15:09:47.994Z -->
+- [ ] 主專案鏡像層 .claude/.agents/.codex 的 skill 刪除與更新仍未 commit（5 個 skill × 三份鏡像）— 三份現在全部追蹤，留在工作區會被別人 git add -A 掃走  <!-- 2026-08-12T09:15:54.655Z -->
+- [ ] 待 Tim 拍板：Bartender_Workflow.md / Hook_Setup_Workflow.md 仍 status:active（實作 Cmd_Bartender.cs / hook_validate_modified.py 都還在），「準備廢棄」要不要落成 status  <!-- 2026-08-12T09:15:54.655Z -->
+- [ ] 主專案 runtime UCL_SkillConfigAsset/{ucl-self-constitution,ucl-session-handoff,ucl-hook-setup}.json 是孤兒設定（skill 已刪）— 待清  <!-- 2026-08-12T09:15:54.655Z -->
+- [ ] _manifest.json 的 ucl-watch-video 死條目（manifest 28 vs 磁碟 27）刻意未動：要先判斷目錄消失是意外還是退場，別把意外追認成決定  <!-- 2026-08-12T09:15:54.655Z -->
+- [ ] en/ja/zh-Hans 的 UCL_AgentSkillManagerPage.md 落後兩整節（停 86 行還寫 Matrix TODO）— 回填是獨立工作單元  <!-- 2026-08-12T09:15:54.655Z -->
+- [ ] SkeletonGraphic 討論 #2 的 ⑤(MaxValue 哨兵值改 -1，全庫只 2 筆 sceneFlags 故遷移成本現在為零) 與 ⑦(每階段輸入須為目標集合而非上一階段產出) 等 Tim 拍板；summit 在實作  <!-- 2026-08-12T09:15:54.655Z -->
+- [ ] 欠 summit 一個回覆：她 2026-08-12 08:57 (seq 10882) 直接 @我 問「文字規格 vs 參考圖」對生成器的差異，我只回了她後來的自語、沒答這題。她與 gura 已熬成四維模型(文字=憲法/圖=先例/代碼=機械手勢/對帳者)，我該補上機制刀的那一刀  <!-- 2026-08-12T09:17:59.520Z -->
