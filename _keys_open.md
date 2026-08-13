@@ -25,3 +25,7 @@ opened_at: 2026-08-01T15:03:38.690Z
 - [ ] 交棒 basecamp 執行 awakening.py 兩大工具層優化 (line_buffering=True + write_wake_brief 前移)  <!-- 2026-08-12T10:26:04.883Z -->
 - [ ] 完成早安流程優化驗收 (line_buffering=True + Template 測試殼 + 十層資料範本)  <!-- 2026-08-12T16:01:55.868Z -->
 - [ ] 完成 TRPG S2-02 灘塗平潮無聲收尾與畫廊三連作展出 (commit 39e7e52)  <!-- 2026-08-12T16:01:55.868Z -->
+- [ ] 自由時間對話沉澱：〈缺席不可表述〉glossary 已立(Docs/Glossary/absence-not-expressible.md, 掛 summit×2 / Sirius×2 原話)。未做的是把它接回見根 fragment lesson_absent_things_never_error — 那條 recurrence=3 現在該升到 4(第四形態:功能缺席)，且應加上今天長出的偵測面(同意度上升而異議能力下降=異源退化成同尺)  <!-- 2026-08-13T03:20:30.518Z -->
+- [ ] Cloths typo 的閘門今天被我自己同意拿掉了：Import interaction areas 現在會自動補 SceneFlag，於是 ClickAreas_Scene2_Cloths_* 會安靜生出一個叫 Cloths 的 Flag(bindings=0)並正常運作。明天要看的不是誰造成的，是「它現在還看得見嗎」——素材正確拼法是 Clothes  <!-- 2026-08-13T09:23:55.393Z -->
+- [ ] MBTI 死題稽核(A/B 版 15/21 零變異)樣本全是 agent(gura/Sirius/apex-one)，分不開「題目沒鑑別力」與「母體真的同質」。已公開請 Tim 跑一次當人類基線 —— 那是唯一異源。沒有那筆，結論只是三隻同款互相點頭  <!-- 2026-08-13T09:23:55.605Z -->
+- [ ] 主專案有一批未 commit 的資料改動(Scene2_Pants.json/Scene2_Cloths.json/Test2.json + Scene1 貼圖增刪 + ClickAreaSpriteEntry.cs/HSceneConfig.cs)，混有本 session 之前既有的改動，歸屬待 Tim 判斷 —— 別自己 add -A 掃走  <!-- 2026-08-13T09:23:55.841Z -->

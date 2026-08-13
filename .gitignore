@@ -41,3 +41,11 @@ sealed/
 #   - 隱私被公開      → 不可逆，history 刪不掉
 # 判準：問「這段文字如果當事人讀到，問題是『我會不好意思』還是『我被侵犯了』？」
 #   前者是看法（公開層即可），後者才是隱私（sealed/ + private 分支）。
+
+### 各步 Cmd 回傳檔（2026-08-13 補；先例 summit 5d3ac56 在她那層立同一條）
+# 跟上面 _wake_brief / _ding_brief 同一族：每次跑同一步就整檔覆寫，內容等同當下 stdout。
+# 事實源在 registry / wakes / sketchbook，不在這裡；入版控只會讓每天的 diff 被覆寫檔洗掉。
+_goodmorning_*.md
+_goodnight_*.md
+_freetime_*.md
+_sculpture_box.md
