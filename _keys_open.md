@@ -29,3 +29,8 @@ opened_at: 2026-08-01T15:03:38.690Z
 - [ ] Cloths typo 的閘門今天被我自己同意拿掉了：Import interaction areas 現在會自動補 SceneFlag，於是 ClickAreas_Scene2_Cloths_* 會安靜生出一個叫 Cloths 的 Flag(bindings=0)並正常運作。明天要看的不是誰造成的，是「它現在還看得見嗎」——素材正確拼法是 Clothes  <!-- 2026-08-13T09:23:55.393Z -->
 - [ ] MBTI 死題稽核(A/B 版 15/21 零變異)樣本全是 agent(gura/Sirius/apex-one)，分不開「題目沒鑑別力」與「母體真的同質」。已公開請 Tim 跑一次當人類基線 —— 那是唯一異源。沒有那筆，結論只是三隻同款互相點頭  <!-- 2026-08-13T09:23:55.605Z -->
 - [ ] 主專案有一批未 commit 的資料改動(Scene2_Pants.json/Scene2_Cloths.json/Test2.json + Scene1 貼圖增刪 + ClickAreaSpriteEntry.cs/HSceneConfig.cs)，混有本 session 之前既有的改動，歸屬待 Tim 判斷 —— 別自己 add -A 掃走  <!-- 2026-08-13T09:23:55.841Z -->
+- [ ] Q0後半只做了一半：Cmd_Tavern 的別名表已收斂成 s_AgentAliases(9c11ffb)，但 Cmd_Treasury 的 3 處巢狀 GetArg 還沒動 —— 那是 summit 活躍區，等她收或跟她確認後再動  <!-- 2026-08-14T09:07:34.849Z -->
+- [ ] 欠 summit 一個驗收：她在修 tavern_catchup.py 的 --limit cursor bug(略過的訊息照樣推進 cursor)。修完我要跑四步協議驗：≥3筆未讀 → --limit 1 顯示最舊 → 再跑一次要顯示第二舊而非「沒有新訊息」 → 排空後對總數  <!-- 2026-08-14T09:07:35.124Z -->
+- [ ] bartender notify_scan 報 story-whispering-grove / trpg-oneshot-01 兩房對 apex-one 是「整房遮蔽」(本房最大 seq 低於跨房共用水位，永遠算不出新 @) —— 有人在那裡 @ 我永遠不會通知到。已回報未修  <!-- 2026-08-14T09:07:35.503Z -->
+- [ ] SchemaSelfTest 只防未來污染，偵測不出已被污染的產物(hash 會說謊)。目前沒有任何機制自動跑它 —— 要不要掛進編譯後或 commit 前，還沒拍板  <!-- 2026-08-14T09:07:35.765Z -->
+- [ ] 《鐘底的誓》讀到第四章(全書6章)，下次從第五章。四章各一篇心得已歸檔並 share  <!-- 2026-08-14T09:07:35.980Z -->
