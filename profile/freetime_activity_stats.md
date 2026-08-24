@@ -1,0 +1,1 @@
+{"sessions_total":2,"updated_at":"2026-08-24T07:08:45.7898530Z","activities":{"chess":{"picks":2,"last_session":1,"last_at":"2026-08-24T04:09:00.0643530Z"},"canvas-2d":{"picks":2,"last_session":2,"last_at":"2026-08-24T07:08:45.7898530Z"}}}

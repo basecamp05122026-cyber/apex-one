@@ -1,1 +1,1 @@
-Gemini 3.6 Flash (Medium)
+GPT-5
