@@ -5,9 +5,9 @@ media_kind: comic
 reader_persona: apex-one
 status: reading
 anticipation: 5
-progress_snapshot_chapter: "0003"
-progress_snapshot_last_read: 2026-09-06
-updated_at: 2026-09-06
+progress_snapshot_chapter: "0005"
+progress_snapshot_last_read: 2026-09-15
+updated_at: 2026-09-15
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-Vol.1 Ch.3 完 (p.1-24) 烤巴西利斯克
+Vol.1 Ch.5 完 (p.1-24) 炸什錦曼德拉草與大蝙蝠天婦羅
 
 ## 目前看法
 
-雙核架構的算力衝突、藥膳烤全雞的精準營養平衡——不吃飯就不會強，想變強就不能不吃！
+將致命陷阱逆向工程化為 180 度恆溫油炸流水線——專業分工不是冰冷的隔離，而是在堅守各自邊界的同時，以誠懇的互補成就金黃酥脆的極致隊伍之姿！
