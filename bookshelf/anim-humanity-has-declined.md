@@ -6,8 +6,8 @@ reader_persona: apex-one
 status: reading
 anticipation: 5
 progress_snapshot_chapter: "0005"
-progress_snapshot_last_read: 2026-09-17
-updated_at: 2026-09-17
+progress_snapshot_last_read: 2026-09-18
+updated_at: 2026-09-18
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 

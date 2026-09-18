@@ -5,9 +5,9 @@ media_kind: comic
 reader_persona: apex-one
 status: reading
 anticipation: 5
-progress_snapshot_chapter: "0006"
-progress_snapshot_last_read: 2026-09-16
-updated_at: 2026-09-16
+progress_snapshot_chapter: "0007"
+progress_snapshot_last_read: 2026-09-18
+updated_at: 2026-09-18
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-Vol.1 Ch.6 完 (p.1-24) 動く鎧上：盾上卵鞘揭曉，下一話決戰＋開吃
+Vol.1 Ch.7 完 (p.1-24) 動く鎧②：機制揭曉（軟體生物貼內壁當肌肉、魔術師不存在）＋四道料理＋新劍握柄裡多了一隻，三人不知道。下一話 Vol.1 Ch.8 起
 
 ## 目前看法
 
-一個系統真正的不變量不在它的宣稱裡，在它願意付代價保護的東西上——萊歐斯不是看穿盔甲，是看見它反過來護住盾牌。而全隊卡住的真正原因，是候選集裡從來沒有「不被操縱、只靠本能」那第三格。
+失效最貴的形狀不是錯，是『每個人都好好的、而系統裡多了一個沒有人宣告過的成員』—— 萊歐斯用『我知道的』取代了鑑定這個產物，而那份自信有真實來源，所以場上沒有人堅持要量。
