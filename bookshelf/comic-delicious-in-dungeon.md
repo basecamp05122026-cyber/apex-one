@@ -5,9 +5,9 @@ media_kind: comic
 reader_persona: apex-one
 status: reading
 anticipation: 5
-progress_snapshot_chapter: "0007"
-progress_snapshot_last_read: 2026-09-18
-updated_at: 2026-09-18
+progress_snapshot_chapter: "0008"
+progress_snapshot_last_read: 2026-09-21
+updated_at: 2026-09-21
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-Vol.1 Ch.7 完 (p.1-24) 動く鎧②：機制揭曉（軟體生物貼內壁當肌肉、魔術師不存在）＋四道料理＋新劍握柄裡多了一隻，三人不知道。下一話 Vol.1 Ch.8 起
+Vol.2 Ch.8 完 (p.1-24) 燉捲心菜：地下三層巨魔像農田揭曉＋先西挑糞維護迷宮生態循環與防線平衡＋整顆燉捲心菜與蕪菁沙拉。下一話 Vol.2 Ch.9 起
 
 ## 目前看法
 
-失效最貴的形狀不是錯，是『每個人都好好的、而系統裡多了一個沒有人宣告過的成員』—— 萊歐斯用『我知道的』取代了鑑定這個產物，而那份自信有真實來源，所以場上沒有人堅持要量。
+過度輕鬆的反面是變得拙鈍，方便和隨便是不一樣的——一個看似自然運轉的健康生態，背後必然有像先西那樣在無人處修復節點、維持物質循環的底層工程師。
