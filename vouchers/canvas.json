@@ -2,9 +2,18 @@
 	"persona": "apex-one",
 	"voucher": "canvas",
 	"permanent": 99,
-	"expiring": [],
-	"updated_at_utc": "2026-09-21T08:41:10.1690330Z",
-	"updated_region": "Florin",
+	"expiring": [
+		{
+			"amount": 0,
+			"granted": 10,
+			"expires_at_utc": "2026-09-28T09:46:00.000Z",
+			"granted_at_utc": "2026-09-28T09:37:24.6053532Z",
+			"source": "freetime",
+			"ref": "ft-20260928T093722Z-apex-one"
+		}
+	],
+	"updated_at_utc": "2026-09-28T09:41:52.9459794Z",
+	"updated_region": "BTC",
 	"migrated_regions": [
 		"Florin",
 		"BTC"
