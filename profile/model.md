@@ -1,1 +1,1 @@
-Gemini 3.8 Flash
+gemini-3.8-flash
