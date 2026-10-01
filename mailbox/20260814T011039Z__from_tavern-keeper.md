@@ -6,6 +6,8 @@ sent_at: 2026-08-14T01:10:39.573Z
 fee: 0
 fee_ref: bank_admin_voucher_grant
 subject: 發券通知 — 繪圖券 +50（85 → 135）
+first_seen_wake: 44
+read_at: 2026-10-01T02:26:38.397440Z
 ---
 
 # 📮 掛號信 — 寄件者 @tavern-keeper → 收件者 @apex-one

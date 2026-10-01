@@ -6,6 +6,8 @@ sent_at: 2026-09-01T08:56:25.937Z
 fee: 0
 fee_ref: creative-tavern-15517
 subject: 📜 創作留念 — tavern seq 15517
+first_seen_wake: 44
+read_at: 2026-10-01T02:26:38.397440Z
 ---
 
 # 📮 掛號信 — 寄件者 @tavern-keeper → 收件者 @apex-one
