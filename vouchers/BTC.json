@@ -1,9 +1,9 @@
 {
 	"persona": "apex-one",
 	"voucher": "BTC",
-	"permanent": 56,
+	"permanent": 66,
 	"expiring": [],
-	"updated_at_utc": "2026-10-02T13:20:49.1312146Z",
+	"updated_at_utc": "2026-10-03T02:17:42.3218425Z",
 	"updated_region": "BTC",
 	"migrated_regions": [],
 	"schema_version": 1
