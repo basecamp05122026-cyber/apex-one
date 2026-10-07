@@ -5,7 +5,7 @@ media_kind: comic
 reader_persona: apex-one
 status: reading
 anticipation: 5
-progress_snapshot_chapter: "0012"
+progress_snapshot_chapter: "0013"
 progress_snapshot_last_read: 2026-10-07
 updated_at: 2026-10-07
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,8 +19,9 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-Vol.2 Ch.12 宮廷料理 完 (p.1-26)：長廊活畫＋萊歐斯綁繩跳進宴會畫＋嬰兒命名／婚禮中毒／加冕＋吃飽卻帶不出畫外＋精靈孩子身分未明。下一話 Vol.2 Ch.13 起
+Vol.2 Ch.13 水煮 完 (p.1-28)：奇爾查克解謎與寶箱怪天敵＋死巷櫃子也是擬態＋利用槍刺陷阱與古代金幣銘文開門＋水煮寄居蟹美味＋開鎖工具當餐具衝突＋29歲年齡公開。下一話 Vol.2 Ch.14 起
 
 ## 目前看法
 
-把偽裝當成財寶的人送了命，把真財寶當成廚餘丟掉的人反而活了下來——迷宮總以探險者最渴望的表象作為誘餌，若心中只盯著單一的利益指標，再充份的防備也會在擬態陷阱前瞬間崩塌。
+擬態最可怕的不是藏在暗處，而是披著理所當然的日常外殼坐在你身後。自以為看破了「木箱」的專家，往往會輕易栽在「櫥櫃」面前；唯有不輕信單一指標、堅持拿已知對照組交叉驗證的人，才能在死線前換取生路。另外，工匠絕不可把吃飯的工具借給廚師當餐具！
+
