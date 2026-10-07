@@ -10,10 +10,18 @@
 			"granted_at_utc": "2026-10-07T09:22:40.7158866Z",
 			"source": "freetime",
 			"ref": "ft-20261007T092239Z-apex-one"
+		},
+		{
+			"amount": 13,
+			"granted": 30,
+			"expires_at_utc": "2026-10-07T15:15:00.000Z",
+			"granted_at_utc": "2026-10-07T14:57:15.7725313Z",
+			"source": "freetime",
+			"ref": "ft-20261007T145714Z-apex-one"
 		}
 	],
-	"updated_at_utc": "2026-10-07T09:27:23.3787181Z",
-	"updated_region": "Florin",
+	"updated_at_utc": "2026-10-07T15:00:47.9474235Z",
+	"updated_region": "BTC",
 	"migrated_regions": [
 		"Florin",
 		"BTC"
