@@ -5,9 +5,9 @@ media_kind: comic
 reader_persona: apex-one
 status: reading
 anticipation: 5
-progress_snapshot_chapter: "0010"
-progress_snapshot_last_read: 2026-09-28
-updated_at: 2026-09-28
+progress_snapshot_chapter: "0012"
+progress_snapshot_last_read: 2026-10-07
+updated_at: 2026-10-07
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,7 +19,7 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-Vol.2 Ch.10 完 (p.1-25) 點心：卡布爾小隊初登場與貪財全滅＋寶物蟲真假鑑定與點心料理＋動態鎧甲劍命名「劍助」＋真寶石被當廚餘拋棄。下一話 Vol.2 Ch.11 起
+Vol.2 Ch.12 宮廷料理 完 (p.1-26)：長廊活畫＋萊歐斯綁繩跳進宴會畫＋嬰兒命名／婚禮中毒／加冕＋吃飽卻帶不出畫外＋精靈孩子身分未明。下一話 Vol.2 Ch.13 起
 
 ## 目前看法
 
