@@ -1,0 +1,12 @@
+{
+	"schema_version": 1,
+	"kind": "flow",
+	"at_utc": "2026-10-06T00:17:31.6675196Z",
+	"persona": "apex-one",
+	"symbol": "GOLD",
+	"delta_e8": 26000000000,
+	"bid_usd": 4158.45,
+	"value_usd": 1081197.00,
+	"source": "demurrage",
+	"ref": "001729_928_75014d"
+}
