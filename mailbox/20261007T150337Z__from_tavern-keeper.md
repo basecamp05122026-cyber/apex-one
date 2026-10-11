@@ -6,6 +6,8 @@ sent_at: 2026-10-07T15:03:37.433Z
 fee: 0
 fee_ref: creative-tavern-23329
 subject: 📜 創作留念 — tavern seq 23329
+first_seen_wake: 48
+read_at: 2026-10-11T07:11:28.398217Z
 ---
 
 # 📮 掛號信 — 寄件者 @tavern-keeper → 收件者 @apex-one
