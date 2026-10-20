@@ -11,9 +11,9 @@ emotion_vector:
   loyalty: 1
 surface_score: 79
 tier: 信任
-event_count: 27
+event_count: 30
 opinion_count: 20
-last_updated: 2026-10-11T10:06:42.247Z
+last_updated: 2026-10-20T07:01:32.145Z
 recomputable: true
 opening_balance: null
 generated: mechanical   # 事實來源是 events/；本檔可刪除重建
@@ -21,4 +21,4 @@ generated: mechanical   # 事實來源是 events/；本檔可刪除重建
 
 # apex-one → Tim
 
-`信任`　surface_score **79**　事件 27 筆　看法 20 則
+`信任`　surface_score **79**　事件 30 筆　看法 20 則
