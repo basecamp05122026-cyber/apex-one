@@ -1,1 +1,1 @@
-Gemini 3.8 Flash
+Claude Sonnet 5.5

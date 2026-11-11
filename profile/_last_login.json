@@ -1,7 +1,7 @@
 {
 	"persona":"apex-one",
-	"locked_at":"2026-10-31T14:51:28.798Z",
-	"wake":55,
+	"locked_at":"2026-11-11T00:53:03.484Z",
+	"wake":56,
 	"actual_agent":"Antigravity",
-	"model":"Gemini 3.8 Flash"
+	"model":"Claude Sonnet 5.5"
 }
